@@ -2,14 +2,28 @@
 
 This API fetches GST Taxpayer Details with GSTIN and provide data in JSON format
 
+## Use Hosted Product (Fastest Way)
+
+If you want production-ready usage with support, dashboard and paid credits, use:
+
+- Website: https://gstverify.dubey.app
+- API Base URL: https://api.gstverify.dubey.app
+- API Docs: https://gstverify.dubey.app/docs
+- Pricing: https://gstverify.dubey.app/#pricing
+- Support: https://gstverify.dubey.app/support
+
+Using hosted product supports ongoing development of this open-source repository.
+
 ## Table of Contents
 
 - [Features](#Features)
+- [Use Hosted Product (Fastest Way)](#Use-Hosted-Product-Fastest-Way)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Endpoints](#EndPoints)
 - [Support](#Support)
 - [Contribution](#Contribution)
+- [License](#License)
 
 ## Features
 
@@ -118,6 +132,11 @@ This API fetches GST Taxpayer Details with GSTIN and provide data in JSON format
 For Support Contact me at itzshubhamofficial@gmail.com
 or Mobile Number : `+917687877772`
 
+Hosted support and onboarding:
+
+- https://gstverify.dubey.app/support
+- https://api.gstverify.dubey.app
+
 ## Contribution
 
 We welcome contributions to improve this project. Here are some ways you can contribute:
@@ -136,3 +155,8 @@ We welcome contributions to improve this project. Here are some ways you can con
 5. **Testing:** Write tests to improve code coverage and ensure stability.
 
 Please make sure your contributions adhere to our coding guidelines and standards.
+
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
